@@ -8,9 +8,11 @@
     mv waybar $HOME/.config/waybar/
  ```
 
- ```nvim
- $HOME 
+ -- for wybar config scripts go through https://github.com/Ajayvirmoti/scripts and follow file tree for github repo and local file... 
+
+```vim 
+$HOME 
 └── scripts
-     └── waybar
+    └── waybar
 ```
   
