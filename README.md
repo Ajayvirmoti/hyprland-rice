@@ -6,8 +6,8 @@ done with installation? let`s add some recipes . .
 ```
    git clone https://github.com/Ajayvirmoti/hyprland-rice.git
    cd hyprland-rice
-   mv hypr $HOME/.config/hypr/
-   mv waybar $HOME/.config/waybar/
+   mv hypr $HOME/.config/
+   mv waybar $HOME/.config/
 ```
 
 
