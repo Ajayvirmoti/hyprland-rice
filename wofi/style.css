@@ -1,14 +1,13 @@
 window {
 	margin: 5px;
-	/* background-color: rgba(0,0,0,0); */
-    background: linear-gradient(90deg, rgba(15,23,42,0.6320728975183824) 49%, rgba(0,0,0,1) 100%, rgba(255,255,255,1) 100%);
+	background-color: rgba(0,0,0,0);
     border-radius: 10px;
     border: 1px solid #263760;
 }
 
 #input {
     border: 1px solid #263760;
-	margin: 5px;
+	  margin: 5px;
     background: linear-gradient(90deg, rgba(15,17,22,0.8701681356136204) 49%, rgba(0,0,0,1) 100%, rgba(255,255,255,1) 100%);
 }
 
@@ -23,11 +22,15 @@ window {
 
 #outer-box {
 	margin: 5px;
+    /* background: linear-gradient(90deg, rgba(15,23,42,0.6320728975183824) 49%, rgba(0,0,0,1) 100%, rgba(255,255,255,1) 100%); */
+  background: radial-gradient(circle, rgba(0,0,0,0.9),rgba(15,23,42,0.6320728975183824),rgba(67, 20, 59,0.3));
+    border-radius: 8px;
     
 }
 
 #scroll {
 	margin: 5px;
+
 }
 
 #text {
